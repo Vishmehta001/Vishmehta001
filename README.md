@@ -1,4 +1,5 @@
-### hey, i'm vishnu 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Vishnu+Mehta+👋)](https://git.io/typing-svg)
+
 
 i'm an Information Technology student at **TUM Campus Heilbronn**.  
 i like understanding how things work and turning ideas into small, working projects.

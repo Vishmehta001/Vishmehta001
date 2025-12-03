@@ -58,7 +58,6 @@ _a MazeRunner-style project used for practice_
 
 - **Vishnu-Mehta** – my first git repo, where i started learning git and basic workflows  
 - **GamevangersPB** – another practice project, used for experimenting with logic and structure  
-- **Naruto-Supratik** – small HTML project, used to practice simple web layouts  
 - **Java-project** *(private)* – java-based project, used to learn language features and structure  
 - **The-Byte-and-the-Furious** *(private)* – experimental repo for trying out ideas
 
@@ -88,3 +87,4 @@ some repos are private while they're still messy or experimental.
 - 📫 email: `your.email@example.com`
 - 🔗 linkedin: `[your-linkedin-here]`
 - 🧑‍💻 github: [github.com/Vishmehta001](https://github.com/Vishmehta001)
+- Portfolio: https://vishmehta001.github.io/Vishnu

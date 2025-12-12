@@ -5,9 +5,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-mehta)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vishnu-mehta](https://www.linkedin.com/in/vishnu-mehta-fib011235813/))
   [![GitHub followers](https://img.shields.io/github/followers/Vishmehta001?style=for-the-badge&logo=github)](https://github.com/Vishmehta001)
-  [![Email](https://img.shields.io/badge/Email-mehtavishnu145%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtavishnu145@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-mehtavishnu145%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtavishnu146@gmail.com)
   
 </div>
 
@@ -117,8 +117,8 @@ class VishnuMehta:
   
   **Open to collaboration, internships, and interesting projects!**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishnu-mehta)
-  [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail)](mailto:mehtavishnu145@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnu-mehta-fib011235813/)
+  [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail)](mailto:mehtavishnu146@gmail.com)
   
 </div>
 
